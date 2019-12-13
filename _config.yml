@@ -12,7 +12,7 @@ github_repo: "https://github.com/Painfulbeliefs/Painfulbeliefs.github.io.git" #c
 
 # Sidebar settings | 侧边栏设置
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "就算这样,也要笑着去努力啊!"
+sidebar-about-description: "大雨中百鬼夜行，我们混在其中，比鬼还高兴。"
 sidebar-avatar: /img/head.jpg      # 头像
 
 
